@@ -1,0 +1,18 @@
+#search-form {
+  justify-content: space-between;
+}
+
+.list-style {
+  align-self: end;
+}
+
+.list-style i {
+  padding: 10px;
+  border: 2mm outset;
+}
+
+.fa-bars:hover,
+.fa-th:hover {
+  cursor: pointer;
+  background-color: lightgrey;
+}
